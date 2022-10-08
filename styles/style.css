@@ -1,0 +1,14 @@
+[name=VideoStreamContainer] {
+    position: absolute !important;
+    top: 10vh !important;
+    left: 20vw !important;
+    width: 60vw !important;
+    height: 75vh !important;
+}
+
+#streamImage {
+    position: relative !important;
+    width: 100% !important;
+    height: 100% !important;
+    border-radius: 20px !important;
+}
